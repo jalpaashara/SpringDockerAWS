@@ -1,0 +1,44 @@
+[
+	{
+		"id": 2,
+		"name": "Avondale Brewing Co",
+		"breweryType": "micro",
+		"address":{
+			"street": "201 41st St S",
+			"city": "Birmingham",
+			"state": "Alabama",
+			"postalCode": "35222-1932",
+			"country": "United States"
+		},
+		"phone": "2057775456",
+		"websiteUrl": "http://www.avondalebrewing.com"
+	},
+	{
+		"id": 44,
+		"name": "Trim Tab Brewing",
+		"breweryType": "micro",
+		"address":{
+			"street": "2721 5th Ave S",
+			"city": "Birmingham",
+			"state": "Alabama",
+			"postalCode": "35233-3401",
+			"country": "United States"
+		},
+		"phone": "2057030536",
+		"websiteUrl": "http://www.trimtabbrewing.com"
+	},
+	{
+		"id": 46,
+		"name": "Yellowhammer Brewery",
+		"breweryType": "micro",
+		"address":{
+			"street": "2600 Clinton Ave W",
+			"city": "Huntsville",
+			"state": "Alabama",
+			"postalCode": "35805-3046",
+			"country": "United States"
+		},
+		"phone": "2569755950",
+		"websiteUrl": "http://www.yellowhammerbrewery.com"
+	}
+]
